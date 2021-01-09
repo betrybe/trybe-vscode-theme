@@ -1,0 +1,57 @@
+{
+  "name": "trybe-theme",
+  "displayName": "Trybe Theme",
+  "description": "Trybe theme for VS Code",
+  "publisher": "Trybe",
+  "author": {
+    "name": "Trybe"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/betrybe/trybe-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/betrybe/trybe-vscode-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#2FC18C",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo_200x200.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Trybe Theme",
+    "Dark Theme",
+    "Light Theme",
+    "Trybe",
+    "blue",
+    "green"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Trybe Theme -  Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trybe-theme-dark.json"
+      },
+      {
+        "label": "Trybe Theme - Light",
+        "uiTheme": "vs",
+        "path": "./themes/trybe-theme-light.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "g": "^2.0.1",
+    "generator-code": "^1.3.9",
+    "vsce": "^1.83.0",
+    "yo": "^3.1.1"
+  }
+}

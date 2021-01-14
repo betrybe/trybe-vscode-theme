@@ -41,6 +41,16 @@
         "path": "./themes/trybe-theme-dark.json"
       },
       {
+        "label": "Trybe Italic Theme -  Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trybe-italic-theme-dark.json"
+      },
+      {
+        "label": "Trybe Operator Theme -  Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trybe-operator-theme-dark.json"
+      },
+      {
         "label": "Trybe Theme - Light",
         "uiTheme": "vs",
         "path": "./themes/trybe-theme-light.json"

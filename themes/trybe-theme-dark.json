@@ -342,7 +342,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FFB86C" //Cor de exemplo na issue #3
+        "foreground": "#FFA199"
       }
     },
     {
@@ -353,7 +353,7 @@
         "meta.type.parameters entity.name.type"
       ],
       "settings": {
-        "fore ground": "#FFB86C" //Cor de exemplo na issue #3
+        "fore ground": "#FFA199"
       }
     },
     {
@@ -363,7 +363,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#BD93F9" //Cor de exemplo na issue #3
+        "foreground": "#D6B8E5"
       }
     },
   ],

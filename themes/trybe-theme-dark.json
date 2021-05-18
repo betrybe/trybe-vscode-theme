@@ -12,7 +12,7 @@
           "#7EE1E7",
           "#06EA97",
           "#FFA199",
-          "#FF79C6",
+          "#97BAFF",
           "#AF72CF",
           "#FC605D",
           "#F9E499"
@@ -84,12 +84,12 @@
       "input.border": "#010E0F",
       "input.placeholderForeground": "#32A791",
       "inputOption.activeBorder": "#AF72CF",
-      "inputValidation.infoBorder": "#FF79C6",
+      "inputValidation.infoBorder": "#97BAFF",
       "inputValidation.warningBorder": "#FFA199",
       "inputValidation.errorBorder": "#FC605D",
       "badge.foreground": "#F0F2F5",
       "badge.background": "#035254",
-      "progressBar.background": "#FF79C6",
+      "progressBar.background": "#97BAFF",
       "list.activeSelectionBackground": "#035254",
       "list.activeSelectionForeground": "#F0F2F5",
       "list.dropBackground": "#035254",
@@ -102,9 +102,9 @@
       "activityBar.background": "#012D2D",
       "activityBar.inactiveForeground": "#32A791",
       "activityBar.foreground": "#F0F2F5",
-      "activityBar.activeBorder": "#FF79C680",
+      "activityBar.activeBorder": "#97BAFF80",
       "activityBar.activeBackground": "#AF72CF10",
-      "activityBarBadge.background": "#FF79C6",
+      "activityBarBadge.background": "#97BAFF",
       "activityBarBadge.foreground": "#F0F2F5",
       "sideBar.background": "#011818",
       "sideBarTitle.foreground": "#F0F2F5",
@@ -116,7 +116,7 @@
       "tab.activeBackground": "#012222",
       "tab.activeForeground": "#F0F2F5",
       "tab.border": "#010E0F",
-      "tab.activeBorderTop": "#FF79C680",
+      "tab.activeBorderTop": "#97BAFF80",
       "tab.inactiveBackground": "#011818",
       "tab.inactiveForeground": "#32A791",
       "editor.foreground": "#F0F2F5",
@@ -190,7 +190,7 @@
       "editorOverviewRuler.incomingContentForeground": "#AF72CF",
       "panel.background": "#012222",
       "panel.border": "#AF72CF",
-      "panelTitle.activeBorder": "#FF79C6",
+      "panelTitle.activeBorder": "#97BAFF",
       "panelTitle.activeForeground": "#F0F2F5",
       "panelTitle.inactiveForeground": "#32A791",
       "statusBar.background": "#010E0F",
@@ -428,7 +428,7 @@
               "string.other.link.title"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -557,7 +557,7 @@
               "comment.block.documentation storage.type.class"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -607,7 +607,7 @@
               "constant.regexp"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -616,7 +616,7 @@
               "entity.name.tag"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -625,7 +625,7 @@
               "entity.other.attribute-name.parent-selector"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -697,7 +697,7 @@
               "punctuation.definition.keyword"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -716,7 +716,7 @@
               "meta.selector"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -780,7 +780,7 @@
               "punctuation.separator.annotation"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -823,7 +823,7 @@
               "punctuation.definition.variable.makefile"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -868,7 +868,7 @@
           ],
           "settings": {
               "fontStyle": "regular",
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -916,7 +916,7 @@
               "storage.modifier"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {
@@ -936,7 +936,7 @@
               "punctuation.definition.group.capture.regexp"
           ],
           "settings": {
-              "foreground": "#FF79C6"
+              "foreground": "#97BAFF"
           }
       },
       {

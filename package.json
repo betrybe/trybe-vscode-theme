@@ -2,7 +2,7 @@
   "name": "trybe-theme",
   "displayName": "Trybe Theme",
   "description": "Trybe theme for VS Code",
-  "publisher": "Trybe",
+  "publisher": "betrybe",
   "author": {
     "name": "Trybe"
   },
@@ -21,7 +21,7 @@
     "color": "#2FC18C",
     "theme": "dark"
   },
-  "icon": "images/icon/logo_200x200.png",
+  "icon": "images/logo_200x200.png",
   "categories": [
     "Themes"
   ],
@@ -50,8 +50,8 @@
   "dependencies": {
     "-": "0.0.1",
     "g": "^2.0.1",
-    "generator-code": "^1.3.9",
-    "vsce": "^1.83.0",
-    "yo": "^3.1.1"
+    "generator-code": "^1.6.4",
+    "vsce": "^1.103.1",
+    "yo": "^4.3.0"
   }
 }
